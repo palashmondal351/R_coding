@@ -1,0 +1,48 @@
+Key	Country	Origin	Longitude	Latitude	Comment	Date
+G@Gel08@003	England	London	-0.118532	51.498725	Saint Thomas Hospital	2012-06-05
+G@Gel11@008	England	London	-0.118532	51.498725	Saint Thomas Hospital	2011-04-24
+G@Gel11@011	England	London	-0.118532	51.498725	Saint Thomas Hospital	2012-03-19
+G@Gel07@002	France	Bordeaux	-0.60369	44.826413	Hôpital Pellegrin Tripode	2011-11-17
+G@Gel07@004	France	Bordeaux	-0.60369	44.826413	Hôpital Pellegrin Tripode	2011-05-22
+G@Gel07@006	France	Bordeaux	-0.60369	44.826413	Hôpital Pellegrin Tripode	2012-02-12
+G@Gel07@010	England	London	-0.118532	51.498725	Saint Thomas Hospital	2012-07-24
+G@Gel07@012	France	Bordeaux	-0.60369	44.826413	Hôpital Pellegrin Tripode	2012-01-05
+G@Gel07@015	France	Lyon				2011-07-01
+G@Gel07@017	France	Paris	2.2228	48.913531	Hôpital Max Forestier	2011-06-03
+G@Gel08@002	France	Paris	2.403259	48.879619	Hôpital Robert Debré	2011-05-14
+G@Gel08@004	France	Bordeaux	-0.60369	44.826413	Hôpital Pellegrin Tripode	2011-05-03
+G@Gel08@007	England	London	-0.118532	51.498725	Saint Thomas Hospital	2011-12-11
+G@Gel08@010	France	Paris	2.2228	48.913531	Hôpital Max Forestier	2011-05-04
+G@Gel08@011	France	Paris	2.403259	48.879619	Hôpital Robert Debré	2011-05-30
+G@Gel08@012	France	Lyon				2012-05-23
+G@Gel08@014	France	Paris	2.2228	48.913531	Hôpital Max Forestier	2011-05-27
+G@Gel08@015	France	Paris	2.403259	48.879619	Hôpital Robert Debré	2012-01-13
+G@Gel08@016	France	Paris	2.2228	48.913531	Hôpital Max Forestier	2011-01-16
+G@Gel09@002	England	London	-0.118532	51.498725	Saint Thomas Hospital	2011-08-27
+G@Gel09@004	France	Paris	2.2228	48.913531	Hôpital Max Forestier	2012-07-18
+G@Gel09@007	England	London	-0.118532	51.498725	Saint Thomas Hospital	2011-06-02
+G@Gel09@009	France	Paris	2.2228	48.913531	Hôpital Max Forestier	2011-02-19
+G@Gel09@010	France	Paris	2.403259	48.879619	Hôpital Robert Debré	2011-09-03
+G@Gel09@011	France	Lyon				2012-08-07
+G@Gel11@003	France	Paris	2.2228	48.913531	Hôpital Max Forestier	2011-07-05
+G@Gel11@004	France	Paris	2.403259	48.879619	Hôpital Robert Debré	2012-06-07
+G@Gel11@006	France	Bordeaux	-0.60369	44.826413	Hôpital Pellegrin Tripode	2012-11-08
+G@Gel11@009	France	Bordeaux	-0.60369	44.826413	Hôpital Pellegrin Tripode	2012-03-27
+G@Gel07@003	Spain	Madrid	-3.671257	40.419198	Hospital General Gregorio Maranon	2011-06-16
+G@Gel07@005	Spain	Madrid	-3.671257	40.419198	Hospital General Gregorio Maranon	2012-05-05
+G@Gel07@007	Spain	Valencia	-0.362892	39.4795	Hospital Clinico Universitario	2011-02-15
+G@Gel07@008	Spain	Valencia	-0.362892	39.4795	Hospital Clinico Universitario	2012-03-02
+G@Gel07@011	Spain	Madrid	-3.671257	40.419198	Hospital General Gregorio Maranon	2011-11-30
+G@Gel07@013	Spain	Valencia	-0.362892	39.4795	Hospital Clinico Universitario	2011-09-18
+G@Gel07@014	Spain	Valencia	-0.389929	39.483905	Hospital Universitario La Fe	2012-02-10
+G@Gel07@016	Spain	Madrid	-3.671257	40.419198	Hospital General Gregorio Maranon	2012-04-04
+G@Gel08@005	Spain	Valencia	-0.389929	39.483905	Hospital Universitario La Fe	2011-05-01
+G@Gel08@006	Spain	Valencia	-0.389929	39.483905	Hospital Universitario La Fe	2012-05-29
+G@Gel08@008	Spain	Madrid	-3.671257	40.419198	Hospital General Gregorio Maranon	2011-03-02
+G@Gel08@013	Spain	Madrid	-3.671257	40.419198	Hospital General Gregorio Maranon	2012-06-24
+G@Gel09@003	Spain	Madrid	-3.671257	40.419198	Hospital General Gregorio Maranon	2012-01-20
+G@Gel09@005	Spain	Madrid	-3.671257	40.419198	Hospital General Gregorio Maranon	2011-04-26
+G@Gel09@008	Spain	Madrid	-3.671257	40.419198	Hospital General Gregorio Maranon	2012-11-12
+G@Gel11@002	Spain	Madrid	-3.671257	40.419198	Hospital General Gregorio Maranon	2011-10-19
+G@Gel11@005	Spain	Madrid	-3.671257	40.419198	Hospital General Gregorio Maranon	2011-12-02
+G@Gel11@010	Spain	Valencia	-0.389929	39.483905	Hospital Universitario La Fe	2012-01-31

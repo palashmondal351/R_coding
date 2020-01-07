@@ -1,0 +1,19 @@
+
+Call:
+lm(formula = Quant ~ Upper, data = tbl)
+
+Residuals:
+      1       2       3       4       5       6       7 
+ 0.3219 -0.1806 -0.4654 -0.4463 -0.1770  0.2364  0.7109 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)   
+(Intercept)  -2.9400     0.8964  -3.280  0.02196 * 
+Upper         5.2361     1.0354   5.057  0.00391 **
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.4785 on 5 degrees of freedom
+Multiple R-squared:  0.8365,	Adjusted R-squared:  0.8038 
+F-statistic: 25.58 on 1 and 5 DF,  p-value: 0.003909
+
